@@ -1,0 +1,6 @@
+elk
+venv
+Dockerfile
+.dockerignore
+docker-compose.yml
+__pycache__
